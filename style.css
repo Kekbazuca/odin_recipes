@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#index{
+    height: auto;
+    width: 30%;
+
+}
+
+.green-text{
+    color: rgb(107, 245, 160);
+}
+
+#recipes{
+    height: auto;
+    width: 33%;
+
+}
+
+#ramon{
+    height: auto;
+    width: 50%;
+}
+
+.text-recipe{
+    text-align: start;
+}
